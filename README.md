@@ -1,7 +1,7 @@
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 ![Power BI](https://img.shields.io/badge/Built%20with-Power%20BI-red?logo=powerbi)
 ![Excel](https://img.shields.io/badge/Data%20Cleaning-Excel-blue?logo=microsoft-excel)
-![Dataset](https://img.shields.io/badge/Dataset-Netflix%20Titles-lightgrey)
+![Dataset](https://img.shields.io/badge/Dataset-Netflix%20Titles-darkblue)
 
 # 🎬 Netflix BI Dashboard  
 An interactive Power BI dashboard that analyzes Netflix’s global content catalog — including **movies, TV shows, genres, ratings, release trends, and country-level distribution**.
