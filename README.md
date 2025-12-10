@@ -112,7 +112,7 @@ Select any movie/TV show (e.g., `#Alive`, Money Heist, Stranger Things).
 - Red bubbles sized by count
 
 **Screenshot:**
-![Show Details](screenshots/netflix-show-details.png)
+![Show Details](screenshots/dashboard_1.png)
 
 ---
 
@@ -120,17 +120,11 @@ Select any movie/TV show (e.g., `#Alive`, Money Heist, Stranger Things).
 
 A business-level overview of Netflix's entire catalog.
 
+**Screenshot:**
+![Show Details](screenshots/dashboard_2.png)
 ---
 
-### 📈 **1. Shows Added by Year**
-- Area chart showing growth of movies vs TV shows  
-- Peak content addition around **2018–2020**
-
-![Shows Added by Year](screenshots/shows-added-by-year.png)
-
----
-
-### 🎞️ **2. Shows Added by Date**
+### 🎞️ **1. Shows Added by Date**
 - Bar chart showing content count for each rating  
 - **TV-MA** is the most frequent rating  
 - Family-safe ratings show expected lower volume  
@@ -139,7 +133,7 @@ A business-level overview of Netflix's entire catalog.
 
 ---
 
-### 🌐 **3. Shows Released by Countries**
+### 🌐 **2. Shows Released by Countries**
 - Interactive world map  
 - Large clusters in:
   - USA  
@@ -152,7 +146,7 @@ A business-level overview of Netflix's entire catalog.
 
 ---
 
-### 🎭 **4. Top 10 Genres**
+### 🎭 **3. Top 10 Genres**
 - Ranked bar chart showing genre popularity  
 - Most dominant:
   - International Movies  
