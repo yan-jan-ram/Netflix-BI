@@ -71,14 +71,14 @@ Because the dataset was split across multiple CSV files, Excel was used to:
 ## 🗂️ Data Model
 
 The Power BI model uses **1-to-many relationships** with `show_id` as the key:
-
+```
 titles (main table)
 │── listed_in (genres)
 │── director table
 │── cast table
 │── description
 └── country table
-
+```
 
 > This star-schema–like structure supports **clean filtering** across all dashboard visuals.
 
@@ -178,16 +178,16 @@ A business-level overview of Netflix's entire catalog.
 ✔ Excel-based data transformation  
 
 ---
-
+```
 ## 📁 Project Structure
 
 Netflix-BI/
 │
-├── PowerBI/ → Dashboard PBIX
-├── excel/ → Cleaned & merged dataset
+├── PowerBI/ → Dashboard PBIX (only snapshots)
+├── excel/ → Cleaned & merged dataset (too large to include in github)
 ├── screenshots/ → Images for README
 └── README.md
-
+```
 ---
 
 ## ⭐ Outcome
