@@ -158,6 +158,15 @@ A business-level overview of Netflix's entire catalog.
 
 ---
 
+### 🎞️ **4. Shows Added by Rating**
+- Bar chart showing content count for each rating  
+- **TV-MA** is the most frequent rating  
+- Family-safe ratings show expected lower volume  
+
+![Shows Added by Rating](screenshots/shows-added-by-rating.png)
+
+---
+
 ## 🧾 Key Features
 
 ✔ Interactive show search  
