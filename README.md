@@ -130,12 +130,12 @@ A business-level overview of Netflix's entire catalog.
 
 ---
 
-### 🎞️ **2. Shows Added by Rating**
+### 🎞️ **2. Shows Added by Date**
 - Bar chart showing content count for each rating  
 - **TV-MA** is the most frequent rating  
 - Family-safe ratings show expected lower volume  
 
-![Shows Added by Rating](screenshots/shows-added-by-rating.png)
+![Shows Added by Rating](screenshots/shows-added-by-date.png)
 
 ---
 
@@ -148,7 +148,7 @@ A business-level overview of Netflix's entire catalog.
   - South Korea  
   - Japan  
 
-![Shows by Country](screenshots/shows-released-by-countries-map.png)
+![Shows by Country](screenshots/shows-released-by-countries.png)
 
 ---
 
