@@ -177,10 +177,8 @@ A business-level overview of Netflix's entire catalog.
 ✔ No DAX — clean visual modeling approach  
 ✔ Excel-based data transformation  
 
----
-```
 ## 📁 Project Structure
-
+```
 Netflix-BI/
 │
 ├── PowerBI/ → Dashboard PBIX (only snapshots)
@@ -188,8 +186,6 @@ Netflix-BI/
 ├── screenshots/ → Images for README
 └── README.md
 ```
----
-
 ## ⭐ Outcome
 
 This dashboard helps stakeholders and content analysts:
