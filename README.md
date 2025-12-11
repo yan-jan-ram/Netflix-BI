@@ -111,7 +111,7 @@ Select any movie/TV show (e.g., `#Alive`, Money Heist, Stranger Things).
 - Highlights which countries released **that particular show**
 - Red bubbles sized by count
 
-**Screenshot:**
+#### **Screenshot:**
 ![Show Details](screenshots/dashboard_1.png)
 
 ---
@@ -120,7 +120,7 @@ Select any movie/TV show (e.g., `#Alive`, Money Heist, Stranger Things).
 
 A business-level overview of Netflix's entire catalog.
 
-**Screenshot:**
+#### **Screenshot:**
 ![Show Details](screenshots/dashboard_2.png)
 ---
 
