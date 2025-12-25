@@ -90,7 +90,7 @@ titles (main table)
 
 ---
 
-### ## **📄 Page 1 – Show Details Viewer**
+### **📄 Page 1 – Show Details Viewer**
 
 A full **show-level profile** UI:
 
