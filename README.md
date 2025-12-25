@@ -116,7 +116,7 @@ Select any movie/TV show (e.g., `#Alive`, Money Heist, Stranger Things).
 
 ---
 
-### ## **📄 Page 2 – Netflix Global Insights Dashboard**
+### **📄 Page 2 – Netflix Global Insights Dashboard**
 
 A business-level overview of Netflix's entire catalog.
 
